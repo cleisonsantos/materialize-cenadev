@@ -57,6 +57,10 @@ p {
   }
 }
 /*FIM*/
+
+port-img {
+    height: 50px !important;
+}
 .icon-block {
   padding: 0 15px;
 }
